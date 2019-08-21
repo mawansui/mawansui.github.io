@@ -29,3 +29,12 @@ body {
 .navbar-brand {
   font-family: 'Roboto Slab', serif;	
 }
+
+.card {
+	margin-top: 50px;
+	background: #FCFFFF;
+}
+
+h3 {
+  font-family: 'Roboto Slab', serif;
+}
