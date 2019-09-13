@@ -1,5 +1,5 @@
 ---
-permalink: /experience
+permalink: /experience/
 title: "Work Experience"
 excerpt: "My work experience"
 author_profile: true
