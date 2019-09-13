@@ -3,8 +3,6 @@ permalink: /experience/
 title: "Work Experience"
 excerpt: "My work experience"
 author_profile: true
-redirect_from:
-  - /experience.html
 ---
 
 Work Experience
