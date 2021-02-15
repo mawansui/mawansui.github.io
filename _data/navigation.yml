@@ -1,11 +1,8 @@
 # main links links
 main:
 
-  - title: "This is "
-    url: /test1/
-
-  - title: "a test"
-    url: /test2/
+  - title: "Blog"
+    url: /blog/
 
   - title: "Work Experience"
     url: /experience/
