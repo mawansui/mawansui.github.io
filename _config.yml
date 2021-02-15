@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maxim D. Shevelev"
+title                    : "Maxim Shevelev"
 title_separator          : "-"
 name                     : &name "Maxim Shevelev"
 description              : &description "Personal Website"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Maxim D. Shevelev"
+  name             : "Maxim Shevelev"
   avatar           : "profile.jpg"
-  bio              : "Data Scientist / Chemist"
-  location         : "Kazan, Russia"
-  employer         :
+  bio              : "First-year Ph.D. student"
+  location         : "Strasbourg, France"
+  employer         : "Laboratory of Chemoinformatics, UMR7140, University of Strasbourg"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "mdshev7@yandex.ru"
+  email            : # "mdshev7@yandex.ru"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mdshev"
+  linkedin         : "mdshev"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/5392885/monochrome"
+  stackoverflow    : "5392885/monochrome"
   steam            :
   tumblr           :
   twitter          :
