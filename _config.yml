@@ -239,7 +239,7 @@ defaults:
   # _tutorials
   - scope:
       path: ""
-      type: blogposts
+      type: tutorials
     values:
       layout: single
       author_profile: true
