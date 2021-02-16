@@ -11,9 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+**Kazan Federal University** (Russia)  
+Specialist of Fundamental and Applied Chemistry (equiv. to Master)  
+2014 – 2019 | GPA: 4.4 / 5.0
+
+**University of Strasbourg** (France)  
+Ph.D. in computational chemistry and chemoinformatics  
+Part of the Maria Skłodowska-Curie Actions’ TubInTrain programme
+2020 – 2023 (Expected)
+
+**University of Barcelona** (Spain)  
+Ph.D. in biotechnology  
+Part of the Maria Skłodowska-Curie Actions’ TubInTrain programme  
+2020 – 2023 (Expected)
+
+Online Courses
+======
+Python for Data Science and Machine Learning (2018-2019) | [Certificate](https://www.udemy.com/certificate/UC-CMMUU55W/).  
+Master SQL for Data Science (2019) | [Certificate](https://www.udemy.com/certificate/UC-1TS61ULN/).
+
 
 Work experience
 ======
