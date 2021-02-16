@@ -9,6 +9,6 @@ Here you may find a collection of my tutorials related to chemoinformatics and t
 
 {% include base_path %}
 
-{% for post in site.blogposts reversed %}
+{% for post in site.tutorials reversed %}
   {% include archive-single.html %}
 {% endfor %}
