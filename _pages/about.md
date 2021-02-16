@@ -26,4 +26,4 @@ Using these computational methods, I efficiently discover molecules with potenti
 Other Interests
 ===
 
-In my free time, I like to compose music, read books, and study. I am also an author of several blogs on chemoinformatics, where I post chemoinformatics-related content. Links will come shortly.
+In my free time, I like to compose music, read books, and study. I am also an author of several blogs on chemoinformatics, where I post chemoinformatics-related content. Links will come shortly. Please update.
