@@ -61,6 +61,9 @@
       {% if author.vk %}
         <li><a href="https://vk.com/{{ author.vk }}"><i class="fab fa-fw fa-vk" aria-hidden="true"></i> VK</a></li>
       {% endif %}
+      {% if author.medium %}
+        <li><a href="https://medium.com/{{ author.medium }}"><i class="fab fa-fw fa-medium-m" aria-hidden="true"></i> Medium</a></li>
+      {% endif %}
       {% if author.tumblr %}
         <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr-square" aria-hidden="true"></i> Tumblr</a></li>
       {% endif %}
