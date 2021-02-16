@@ -178,6 +178,9 @@ collections:
   blogposts:
     output: true
     permalink: /:collection/:path/
+  tutorials:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -231,6 +234,16 @@ defaults:
       share: true
       comments: true
       read_time: true
+  # _tutorials
+  - scope:
+      path: ""
+      type: blogposts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      read_time: true    
   # _publications
   - scope:
       path: ""
