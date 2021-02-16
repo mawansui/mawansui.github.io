@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        : "chemoinfo"
-  vk               : "mdshev"
+  vk               : # "mdshev"
   medium           : "chemoinformatics"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
@@ -108,7 +108,7 @@ author:
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "5392885/monochrome"
+  stackoverflow    : # "5392885/monochrome"
   steam            :
   tumblr           :
   twitter          :
