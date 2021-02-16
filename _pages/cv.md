@@ -74,7 +74,7 @@ Skills
 * **Data Science**: numpy, pandas, scipy, jupyter, scikit-learn, xgboost, lightgbm, matplotlib, seaborn, plotly, tensorflow, pyTorch
 * **Database Management**: PostgreSQL, mongoDB
 * **Other**: React Native, Node.js, RDKit, Flask, FastAPI, HTML/CSS, jQuery, Linux, Git
-* **Languages**: English (TOEFL 116/120), Chinese (HSK 3), French (A1), Russian (native)
+* **Languages**: English (TOEFL 116/120), Chinese (HSK 3, HSKK 2), French (A1), Russian (native)
 
 Publications
 ======
