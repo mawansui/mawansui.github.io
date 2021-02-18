@@ -28,4 +28,8 @@ Other Interests
 
 In my free time, I like to compose music, read books, and study. I am also an author of several blogs on chemoinformatics, where I post chemoinformatics-related content. 
 
-As such, I manage the `@chemoinfo` Instagram account ([https://instagram.com/chemoinfo](https://instagram.com/chemoinfo)) and a Medium page unpretensiously called `chemoinformatics` ([https://medium.com/chemoinformatics](https://medium.com/chemoinformatics)). I invite you to kindly visit them as well!
+First and foremost, I'd like to welcome you to the three sections of this site where I post various chemoinformatics-related notes. These seactions are [**Blog**](https://mawansui.github.io/blog), [**Quick Hacks**](https://mawansui.github.io/hacks), and [**Tutorials**](https://mawansui.github.io/tutorials). 
+
+The **Blog** is where I post TL;DR-s of various chemoinformatics-related topics. The **Quick Hacks** section is a collection of recepies I find useful in my work. The **Tutorials** section is where I post step-by-step tutorials on popular chemoinformatics software, which I hope will be helpful for beginners in the field.
+
+I also manage the `@chemoinfo` Instagram account ([https://instagram.com/chemoinfo](https://instagram.com/chemoinfo)) and a Medium page unpretensiously called `chemoinformatics` ([https://medium.com/chemoinformatics](https://medium.com/chemoinformatics)). While these social media outlets are currently under construction, I invite you to kindly visit them as well!
