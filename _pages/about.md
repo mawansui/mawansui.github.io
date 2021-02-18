@@ -32,4 +32,4 @@ First and foremost, I'd like to welcome you to the three sections of this site w
 
 The **Blog** is where I post TL;DR-s of various chemoinformatics-related topics. The **Quick Hacks** section is a collection of recepies I find useful in my work. The **Tutorials** section is where I post step-by-step tutorials on popular chemoinformatics software, which I hope will be helpful for beginners in the field.
 
-I also manage the `@chemoinfo` Instagram account ([https://instagram.com/chemoinfo](https://instagram.com/chemoinfo)) and a Medium page unpretensiously called `chemoinformatics` ([https://medium.com/chemoinformatics](https://medium.com/chemoinformatics)). While these social media outlets are currently under construction, I invite you to kindly visit them as well!
+I also manage the `@chemoinfo` Instagram account ([https://instagram.com/chemoinfo](https://instagram.com/chemoinfo)) and a Medium page unpretensiously called `chemoinformatics` ([https://medium.com/chemoinformatics](https://medium.com/chemoinformatics)). While these social media pages are currently under construction, I invite you to kindly visit them as well!
