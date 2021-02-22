@@ -5,7 +5,7 @@ excerpt: "This is a collection of quick hacks that I find/come up with when work
 author_profile: true
 ---
 
-This is a collection of quick hacks that I find/come up with when working on a multitude of unrelated tasks. Intended for quick lookup. Search this page by keyword to find relevant notes.
+This is a collection of quick hacks that I find/come up with when working on a multitude of unrelated tasks. Intended for quick lookup. Search this page by keyword to find relevant notes. For mode detail on any of the Quick Hacks published here, please visit [my blog on Medium](https://medium.com/chemoinformatics), where I explain the meaning behind the commands and the code.
 
 ---
 
