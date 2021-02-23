@@ -156,6 +156,18 @@ for cid in cids:
 
 ---
 
+**Q**: How to unzip a `.tar.gz` archive in Linux?  
+**A**: `tar -xzf yourfile.tar.gz` 
+**Tags**: linux
+
+---
+
+**Q**: How to unzip a `.gz` archive in Linux?   
+**A**: `gunzip yourfile.gz`
+**Tags**: linux
+
+---
+
 **Q**:  
 **A**:  
 **Tags**:
