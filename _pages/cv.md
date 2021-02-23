@@ -76,7 +76,7 @@ Skills
 * **Other**: React Native, Node.js, RDKit, Flask, FastAPI, HTML/CSS, jQuery, Linux, Git
 * **Languages**: English (TOEFL 116/120), Chinese (HSK 3, HSKK 2), French (A1), Russian (native)
 
-Publications
+Selected publications
 ======
 6. Ryzhkina I.S., Murtazina L.I., Sergeeva S.Yu., Kostina L.A., Sharapova D.A., **Shevelev M.D.**, Konovalov A.I. (2021). Fluorescence characteristics of aqueous dispersed systems of succinic acid as potential markers of their self-organization and bioeffects in low concentration range. Environmental Technology & Innovation, 21, 101215. DOI: [10.1016/j.eti.2020.101215](https://doi.org/10.1016/j.eti.2020.101215).
 5. Zankov, D.V., **Shevelev, M.D.**, Nikonenko, A.V., Polishchuk, P.G., Rakhimbekova, A.I., Madzhidov, T.I. (2020). Multi-instance learning for structure-activity modeling for molecular properties. Analysis of Images, Social Networks and Texts, 62-71. DOI: [10.1007/978-3-030-39575-9_7](https://doi.org/10.1007/978-3-030-39575-9_7).
