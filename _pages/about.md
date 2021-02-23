@@ -11,6 +11,10 @@ redirect_from:
 Hi! My name is Max. I am a first-year chemoinformatics Ph.D. student at the University of Strasbourg, France. 
 Proud to be a part of TubInTrain – a European Joint Doctorate on chemistry and biology supported by Marie Skłodowska-Curie actions (2020). 
 
+This blog is a place where I share chemoinformatics-related things I find useful at my work. This site has three sections. These are [**Blog**](https://mawansui.github.io/blog), [**Quick Hacks**](https://mawansui.github.io/hacks), and [**Tutorials**](https://mawansui.github.io/tutorials). 
+
+The **Blog** is where I post TL;DR-s of various chemoinformatics-related articles. The **Quick Hacks** section is a collection of recepies I find useful in my work. The **Tutorials** section is where I post step-by-step tutorials on popular chemoinformatics software, which I hope will be helpful for beginners in the field.
+
 Research and Work Interests
 ======
 
@@ -26,10 +30,6 @@ Using these computational methods, I efficiently discover molecules with potenti
 Other Interests
 ===
 
-In my free time, I like to compose music, read books, and study. I am also an author of several blogs on chemoinformatics, where I post chemoinformatics-related content. 
+In my free time, I like to compose music, read books, and study. I am an author of several blogs on chemoinformatics, where I post chemoinformatics-related content. 
 
-First and foremost, I'd like to welcome you to the three sections of this site where I post various chemoinformatics-related notes. These seactions are [**Blog**](https://mawansui.github.io/blog), [**Quick Hacks**](https://mawansui.github.io/hacks), and [**Tutorials**](https://mawansui.github.io/tutorials). 
-
-The **Blog** is where I post TL;DR-s of various chemoinformatics-related topics. The **Quick Hacks** section is a collection of recepies I find useful in my work. The **Tutorials** section is where I post step-by-step tutorials on popular chemoinformatics software, which I hope will be helpful for beginners in the field.
-
-I also manage the `@chemoinfo` Instagram account ([https://instagram.com/chemoinfo](https://instagram.com/chemoinfo)) and a Medium page unpretensiously called `chemoinformatics` ([https://medium.com/chemoinformatics](https://medium.com/chemoinformatics)). While these social media pages are currently under construction, I invite you to kindly visit them as well!
+Apart from this blog, I also manage the `@chemoinfo` Instagram account ([https://instagram.com/chemoinfo](https://instagram.com/chemoinfo)) and a Medium page unpretensiously called `chemoinformatics` ([https://medium.com/chemoinformatics](https://medium.com/chemoinformatics)). While these social media pages are currently under construction, I invite you to kindly visit them as well in a while to check what's new!
