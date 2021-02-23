@@ -32,4 +32,4 @@ Other Interests
 
 In my free time, I like to compose music, read books, and study. I am an author of several blogs on chemoinformatics, where I post chemoinformatics-related content. 
 
-Apart from this blog, I also manage the `@chemoinfo` Instagram account ([https://instagram.com/chemoinfo](https://instagram.com/chemoinfo)) and a Medium page unpretensiously called `chemoinformatics` ([https://medium.com/chemoinformatics](https://medium.com/chemoinformatics)). While these social media pages are currently under construction, I invite you to kindly visit them as well in a while to check what's new!
+Apart from this blog, I also manage a Medium page unpretensiously called `chemoinformatics` ([https://medium.com/chemoinformatics](https://medium.com/chemoinformatics)), a `@chemoinfo` Instagram account ([https://instagram.com/chemoinfo](https://instagram.com/chemoinfo)), and a Twitter page at `@mdshev7` ([https://twitter.com/mdshev7](https://twitter.com/mdshev7)). If these social media suit you better, I invite you to kindly visit these pages in a while to check what's new, or simply subscribe to receive updates as soon as I post.
