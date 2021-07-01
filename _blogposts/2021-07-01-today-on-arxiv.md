@@ -2,7 +2,7 @@
 title: "Today on arXiv (#2)"
 collection: blogposts
 permalink: /blog/2021-07-01-today-on-arxiv
-excerpt: 'Recent intriguing pre-prints on arXiv: learning to quickly model the ionic liquids and pre-processing existing graphs to increase the models' predictive performace.'
+excerpt: "Recent intriguing pre-prints on arXiv: learning to quickly model the ionic liquids and pre-processing existing graphs to increase the models' predictive performace."
 date: 2021-07-01
 read_time: true
 ---
