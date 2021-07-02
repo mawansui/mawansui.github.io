@@ -168,6 +168,26 @@ for cid in cids:
 
 ---
 
+**Q**: How to extract field values from a `.sdf` file to a separate file?	
+**A**:  Let's say you have a file called `hits.sdf`. Let's say each molecule has a bunch of fields related to it, but you specifically want to extract all values of the field called "ChEMBL ID" into a separate file.	
+
+To do so, run the following command:
+
+
+`awk '/<ChEMBL ID>/ {getline;print}' ./hits.sdf >> all_chembl_ids.txt`
+
+What if you wanted to extract the values of not one, but several fields? E.g., named "Molecular Weight" and "LogP" in your `hits.sdf` file?
+
+Well, for this you can chain the field names like this:
+
+`awk '/<ChEMBL ID>/ || /<Molecular Weight>/ || /<LogP>/ {getline;print}' ./hits.sdf`
+
+Notice that the field names are in `<...>` just because that's how `sdf` file format goes. Basically, this `awk` command will just search for and return whatever pattern is enclosed within the slashes (`/.../`).
+
+**Tags**: linux, awk, sdf
+
+---
+
 **Q**:  
 **A**:  
 **Tags**:
