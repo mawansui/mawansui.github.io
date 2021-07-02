@@ -168,7 +168,7 @@ for cid in cids:
 
 ---
 
-**Q**: How to extract field values from a `.sdf` file to a separate file?	
+**Q**: How to extract field values from a `.sdf` file to a separate file?   
 **A**:  Let's say you have a file called `hits.sdf`. Let's say each molecule has a bunch of fields related to it, but you specifically want to extract all values of the field called "ChEMBL ID" into a separate file.	
 
 To do so, run the following command:
