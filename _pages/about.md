@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Max. I am a first-year chemoinformatics Ph.D. student at the University of Strasbourg, France. 
+Hi! My name is Max. I am a second-year chemoinformatics Ph.D. student at the University of Strasbourg, France. 
 Proud to be a part of TubInTrain – a European Joint Doctorate on chemistry and biology supported by Marie Skłodowska-Curie actions (2020). 
 
 This blog is a place where I share chemoinformatics-related things I find useful at my work. This site has three sections. These are [**Blog**](https://mawansui.github.io/blog), [**Quick Hacks**](https://mawansui.github.io/hacks), and [**Tutorials**](https://mawansui.github.io/tutorials). 
